@@ -13,7 +13,7 @@ total_fare = distance * FARE_RATE * passengers
 print("\nPassenger:", name)
 print("Total Fare: PHP", round(total_fare, 2))
 
-# Validation rules
-# 1. Passenger name -- Must not be empty
-# 2. Distance -- Number greater than 0
-# 3. Passengers -- Positive whole number
+#Validation rules
+#1. Passenger name -- Must not be empty
+#2. Distance -- Number greater than 0
+#3. Passengers -- Positive whole number
